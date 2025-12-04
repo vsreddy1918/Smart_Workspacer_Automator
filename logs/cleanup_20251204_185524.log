@@ -1,0 +1,9 @@
+2025-12-04 18:55:24.030 | INFO | Starting cleanup operation
+2025-12-04 18:55:24.030 | INFO | Scanning folder: C:\Users\hp\Downloads
+2025-12-04 18:55:24.115 | INFO | Found 1 files to process
+2025-12-04 18:55:24.116 | INFO | Classifying: BraveBrowserSetup-BRV010.exe
+2025-12-04 18:55:24.116 | INFO | Rule-based classification: Installers (confidence: 1.00)
+2025-12-04 18:55:24.117 | INFO | Explanation: File extension '.exe' maps to Installers
+2025-12-04 18:55:24.118 | INFO | Moving: BraveBrowserSetup-BRV010.exe → C:\Users\hp\Downloads\organized\Installers\BraveBrowserSetup-BRV010.exe
+2025-12-04 18:55:24.118 | INFO | Moved: BraveBrowserSetup-BRV010.exe
+2025-12-04 18:55:24.119 | INFO | Cleanup complete: 1 files moved, 0 errors

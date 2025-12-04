@@ -1,0 +1,159 @@
+2025-12-04 18:58:26.099 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.099 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmp2wm0kt6r
+2025-12-04 18:58:26.100 | INFO | Found 6 files to process
+2025-12-04 18:58:26.101 | INFO | Classifying: assignment_final.pdf
+2025-12-04 18:58:26.101 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.101 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.103 | INFO | Moving: assignment_final.pdf → C:\Users\hp\AppData\Local\Temp\tmp2wm0kt6r\organized\Documents\assignment_final.pdf
+2025-12-04 18:58:26.103 | INFO | Moved: assignment_final.pdf
+2025-12-04 18:58:26.103 | INFO | Classifying: contract_draft.pdf
+2025-12-04 18:58:26.103 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.104 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.105 | INFO | Moving: contract_draft.pdf → C:\Users\hp\AppData\Local\Temp\tmp2wm0kt6r\organized\Documents\contract_draft.pdf
+2025-12-04 18:58:26.105 | INFO | Moved: contract_draft.pdf
+2025-12-04 18:58:26.105 | INFO | Classifying: homework_chapter3.pdf
+2025-12-04 18:58:26.105 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.105 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.107 | INFO | Moving: homework_chapter3.pdf → C:\Users\hp\AppData\Local\Temp\tmp2wm0kt6r\organized\Documents\homework_chapter3.pdf
+2025-12-04 18:58:26.107 | INFO | Moved: homework_chapter3.pdf
+2025-12-04 18:58:26.107 | INFO | Classifying: invoice_2024.pdf
+2025-12-04 18:58:26.107 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.108 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.109 | INFO | Moving: invoice_2024.pdf → C:\Users\hp\AppData\Local\Temp\tmp2wm0kt6r\organized\Documents\invoice_2024.pdf
+2025-12-04 18:58:26.109 | INFO | Moved: invoice_2024.pdf
+2025-12-04 18:58:26.109 | INFO | Classifying: lecture_notes.pdf
+2025-12-04 18:58:26.109 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.109 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.110 | INFO | Moving: lecture_notes.pdf → C:\Users\hp\AppData\Local\Temp\tmp2wm0kt6r\organized\Documents\lecture_notes.pdf
+2025-12-04 18:58:26.110 | INFO | Moved: lecture_notes.pdf
+2025-12-04 18:58:26.110 | INFO | Classifying: meeting_agenda.pdf
+2025-12-04 18:58:26.110 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.110 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.111 | INFO | Moving: meeting_agenda.pdf → C:\Users\hp\AppData\Local\Temp\tmp2wm0kt6r\organized\Documents\meeting_agenda.pdf
+2025-12-04 18:58:26.111 | INFO | Moved: meeting_agenda.pdf
+2025-12-04 18:58:26.111 | INFO | Cleanup complete: 6 files moved, 0 errors
+2025-12-04 18:58:26.137 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.137 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmplyljul1q
+2025-12-04 18:58:26.137 | INFO | Found 1 files to process
+2025-12-04 18:58:26.138 | INFO | Classifying: document.pdf
+2025-12-04 18:58:26.138 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.138 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.139 | INFO | Moving: document.pdf → C:\Users\hp\AppData\Local\Temp\tmplyljul1q\organized\Documents\document.pdf
+2025-12-04 18:58:26.139 | INFO | Moved: document.pdf
+2025-12-04 18:58:26.139 | INFO | Cleanup complete: 1 files moved, 0 errors
+2025-12-04 18:58:26.142 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.142 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmplyljul1q
+2025-12-04 18:58:26.143 | INFO | Found 1 files to process
+2025-12-04 18:58:26.143 | INFO | Classifying: document.pdf
+2025-12-04 18:58:26.143 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.143 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.145 | INFO | Moving: document.pdf → C:\Users\hp\AppData\Local\Temp\tmplyljul1q\organized\Documents\document_1.pdf
+2025-12-04 18:58:26.145 | INFO | Moved: document.pdf
+2025-12-04 18:58:26.145 | INFO | Cleanup complete: 1 files moved, 0 errors
+2025-12-04 18:58:26.187 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.187 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmp6gubbozm
+2025-12-04 18:58:26.188 | INFO | Found 0 files to process
+2025-12-04 18:58:26.188 | INFO | Cleanup complete: 0 files moved, 0 errors
+2025-12-04 18:58:26.214 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.215 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmpg4dkvajx
+2025-12-04 18:58:26.216 | INFO | Found 6 files to process
+2025-12-04 18:58:26.216 | INFO | Classifying: doc1.pdf
+2025-12-04 18:58:26.216 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.216 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.218 | INFO | Moving: doc1.pdf → C:\Users\hp\AppData\Local\Temp\tmpg4dkvajx\organized\Documents\doc1.pdf
+2025-12-04 18:58:26.218 | INFO | Moved: doc1.pdf
+2025-12-04 18:58:26.219 | INFO | Classifying: doc2.docx
+2025-12-04 18:58:26.219 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.219 | INFO | Explanation: File extension '.docx' maps to Documents
+2025-12-04 18:58:26.220 | INFO | Moving: doc2.docx → C:\Users\hp\AppData\Local\Temp\tmpg4dkvajx\organized\Documents\doc2.docx
+2025-12-04 18:58:26.220 | INFO | Moved: doc2.docx
+2025-12-04 18:58:26.220 | INFO | Classifying: doc3.txt
+2025-12-04 18:58:26.220 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.220 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:58:26.221 | INFO | Moving: doc3.txt → C:\Users\hp\AppData\Local\Temp\tmpg4dkvajx\organized\Documents\doc3.txt
+2025-12-04 18:58:26.221 | INFO | Moved: doc3.txt
+2025-12-04 18:58:26.221 | INFO | Classifying: image1.jpg
+2025-12-04 18:58:26.221 | INFO | Rule-based classification: Images (confidence: 1.00)
+2025-12-04 18:58:26.221 | INFO | Explanation: File extension '.jpg' maps to Images
+2025-12-04 18:58:26.222 | INFO | Moving: image1.jpg → C:\Users\hp\AppData\Local\Temp\tmpg4dkvajx\organized\Images\image1.jpg
+2025-12-04 18:58:26.222 | INFO | Moved: image1.jpg
+2025-12-04 18:58:26.222 | INFO | Classifying: image2.png
+2025-12-04 18:58:26.222 | INFO | Rule-based classification: Images (confidence: 1.00)
+2025-12-04 18:58:26.222 | INFO | Explanation: File extension '.png' maps to Images
+2025-12-04 18:58:26.224 | INFO | Moving: image2.png → C:\Users\hp\AppData\Local\Temp\tmpg4dkvajx\organized\Images\image2.png
+2025-12-04 18:58:26.224 | INFO | Moved: image2.png
+2025-12-04 18:58:26.224 | INFO | Classifying: video1.mp4
+2025-12-04 18:58:26.224 | INFO | Rule-based classification: Videos (confidence: 1.00)
+2025-12-04 18:58:26.224 | INFO | Explanation: File extension '.mp4' maps to Videos
+2025-12-04 18:58:26.226 | INFO | Moving: video1.mp4 → C:\Users\hp\AppData\Local\Temp\tmpg4dkvajx\organized\Videos\video1.mp4
+2025-12-04 18:58:26.226 | INFO | Moved: video1.mp4
+2025-12-04 18:58:26.227 | INFO | Cleanup complete: 6 files moved, 0 errors
+2025-12-04 18:58:26.298 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.298 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmpztlpwbfw
+2025-12-04 18:58:26.300 | INFO | Found 3 files to process
+2025-12-04 18:58:26.301 | INFO | Classifying: assignment.pdf
+2025-12-04 18:58:26.301 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.301 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.305 | INFO | Moving: assignment.pdf → C:\Users\hp\AppData\Local\Temp\tmpztlpwbfw\organized\Documents\assignment.pdf
+2025-12-04 18:58:26.305 | INFO | Moved: assignment.pdf
+2025-12-04 18:58:26.305 | INFO | Classifying: document.pdf
+2025-12-04 18:58:26.305 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.305 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.306 | INFO | Moving: document.pdf → C:\Users\hp\AppData\Local\Temp\tmpztlpwbfw\organized\Documents\document.pdf
+2025-12-04 18:58:26.307 | INFO | Moved: document.pdf
+2025-12-04 18:58:26.307 | INFO | Classifying: image.jpg
+2025-12-04 18:58:26.307 | INFO | Rule-based classification: Images (confidence: 1.00)
+2025-12-04 18:58:26.307 | INFO | Explanation: File extension '.jpg' maps to Images
+2025-12-04 18:58:26.308 | INFO | Moving: image.jpg → C:\Users\hp\AppData\Local\Temp\tmpztlpwbfw\organized\Images\image.jpg
+2025-12-04 18:58:26.309 | INFO | Moved: image.jpg
+2025-12-04 18:58:26.309 | INFO | Cleanup complete: 3 files moved, 0 errors
+2025-12-04 18:58:26.341 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.342 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmpgyo_7n9q
+2025-12-04 18:58:26.343 | INFO | Found 2 files to process
+2025-12-04 18:58:26.343 | INFO | Classifying: document.pdf
+2025-12-04 18:58:26.343 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.343 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.345 | INFO | Moving: document.pdf → C:\Users\hp\AppData\Local\Temp\tmpgyo_7n9q\organized\Documents\document.pdf
+2025-12-04 18:58:26.345 | INFO | Moved: document.pdf
+2025-12-04 18:58:26.345 | INFO | Classifying: image.jpg
+2025-12-04 18:58:26.345 | INFO | Rule-based classification: Images (confidence: 1.00)
+2025-12-04 18:58:26.345 | INFO | Explanation: File extension '.jpg' maps to Images
+2025-12-04 18:58:26.346 | INFO | Moving: image.jpg → C:\Users\hp\AppData\Local\Temp\tmpgyo_7n9q\organized\Images\image.jpg
+2025-12-04 18:58:26.346 | INFO | Moved: image.jpg
+2025-12-04 18:58:26.346 | INFO | Cleanup complete: 2 files moved, 0 errors
+2025-12-04 18:58:26.373 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.374 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmpgign2tzf
+2025-12-04 18:58:26.374 | INFO | Found 1 files to process
+2025-12-04 18:58:26.374 | INFO | Classifying: document.pdf
+2025-12-04 18:58:26.374 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.375 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.376 | INFO | Moving: document.pdf → C:\Users\hp\AppData\Local\Temp\tmpgign2tzf\organized\Documents\document.pdf
+2025-12-04 18:58:26.376 | INFO | Moved: document.pdf
+2025-12-04 18:58:26.376 | INFO | Cleanup complete: 1 files moved, 0 errors
+2025-12-04 18:58:26.383 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.383 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmpniny7fd2
+2025-12-04 18:58:26.384 | INFO | Found 1 files to process
+2025-12-04 18:58:26.384 | INFO | Classifying: report.pdf
+2025-12-04 18:58:26.384 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.384 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.385 | INFO | Moving: report.pdf → C:\Users\hp\AppData\Local\Temp\tmpniny7fd2\organized\Documents\report.pdf
+2025-12-04 18:58:26.385 | INFO | Moved: report.pdf
+2025-12-04 18:58:26.385 | INFO | Cleanup complete: 1 files moved, 0 errors
+2025-12-04 18:58:26.388 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.389 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmpniny7fd2
+2025-12-04 18:58:26.389 | INFO | Found 1 files to process
+2025-12-04 18:58:26.390 | INFO | Classifying: report.pdf
+2025-12-04 18:58:26.390 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.390 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.391 | INFO | Moving: report.pdf → C:\Users\hp\AppData\Local\Temp\tmpniny7fd2\organized\Documents\report_1.pdf
+2025-12-04 18:58:26.391 | INFO | Moved: report.pdf
+2025-12-04 18:58:26.391 | INFO | Cleanup complete: 1 files moved, 0 errors
+2025-12-04 18:58:26.393 | INFO | Starting cleanup operation
+2025-12-04 18:58:26.393 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmpniny7fd2
+2025-12-04 18:58:26.394 | INFO | Found 1 files to process
+2025-12-04 18:58:26.394 | INFO | Classifying: report.pdf
+2025-12-04 18:58:26.394 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:26.394 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:26.395 | INFO | Moving: report.pdf → C:\Users\hp\AppData\Local\Temp\tmpniny7fd2\organized\Documents\report_2.pdf
+2025-12-04 18:58:26.395 | INFO | Moved: report.pdf
+2025-12-04 18:58:26.395 | INFO | Cleanup complete: 1 files moved, 0 errors

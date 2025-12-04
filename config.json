@@ -1,0 +1,26 @@
+{
+  "downloads_folder": null,
+  "organized_folder": "organized",
+  "logs_folder": "logs",
+  "categories": {
+    "Documents": ["pdf", "doc", "docx", "txt", "rtf", "odt"],
+    "Images": ["jpg", "jpeg", "png", "gif", "bmp", "svg", "webp"],
+    "Videos": ["mp4", "avi", "mkv", "mov", "wmv", "flv", "webm"],
+    "Archives": ["zip", "rar", "7z", "tar", "gz", "bz2"],
+    "Code": ["py", "js", "html", "css", "java", "cpp", "c", "h"],
+    "Installers": ["exe", "msi", "dmg", "pkg", "deb", "rpm"],
+    "Work": [],
+    "Study": [],
+    "Miscellaneous": []
+  },
+  "system_file_patterns": [".tmp", ".part", ".DS_Store", ".crdownload"],
+  "ai_classifier": {
+    "enabled": true,
+    "prompt_template": "Given the filename '{filename}', predict its purpose from these options: work, study, media, misc. Consider patterns like 'assignment', 'project', 'report' for study; 'invoice', 'contract', 'meeting' for work. Respond with JSON: {\"purpose\": \"<category>\", \"explanation\": \"<reason>\"}",
+    "ambiguity_threshold": 0.7
+  },
+  "duplicate_handling": {
+    "strategy": "rename",
+    "suffix_pattern": "_{n}"
+  }
+}

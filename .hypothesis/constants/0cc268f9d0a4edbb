@@ -1,0 +1,4 @@
+# file: F:\kiro\classifier.py
+# hypothesis_version: 6.148.6
+
+[0.3, 0.4, 0.8, 0.85, 1.0, 'Archives', 'Documents', 'Images', 'Miscellaneous', 'Study', 'Unknown file type', 'Videos', 'Work', 'agenda', 'ai', 'annual', 'application/gzip', 'application/msword', 'application/pdf', 'application/x-bzip2', 'application/x-tar', 'application/zip', 'assignment', 'budget', 'business', 'class', 'client', 'contract', 'course', 'dissertation', 'exam', 'financial', 'homework', 'image/', 'invoice', 'lab', 'lecture', 'meeting', 'memo', 'merged', 'minutes', 'notes', 'presentation', 'project', 'proposal', 'quarterly', 'quiz', 'report', 'research', 'rule-based', 'study', 'text/', 'thesis', 'tutorial', 'video/']

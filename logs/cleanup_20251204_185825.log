@@ -1,0 +1,44 @@
+2025-12-04 18:58:25.886 | INFO | Starting cleanup operation
+2025-12-04 18:58:25.886 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmp4rfyc17o
+2025-12-04 18:58:25.972 | INFO | Found 8 files to process
+2025-12-04 18:58:25.972 | INFO | Classifying: archive.zip
+2025-12-04 18:58:25.972 | INFO | Rule-based classification: Archives (confidence: 1.00)
+2025-12-04 18:58:25.972 | INFO | Explanation: File extension '.zip' maps to Archives
+2025-12-04 18:58:25.974 | INFO | Moving: archive.zip → C:\Users\hp\AppData\Local\Temp\tmp4rfyc17o\organized\Archives\archive.zip
+2025-12-04 18:58:25.974 | INFO | Moved: archive.zip
+2025-12-04 18:58:25.974 | INFO | Classifying: document.pdf
+2025-12-04 18:58:25.974 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:25.974 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:58:25.976 | INFO | Moving: document.pdf → C:\Users\hp\AppData\Local\Temp\tmp4rfyc17o\organized\Documents\document.pdf
+2025-12-04 18:58:25.976 | INFO | Moved: document.pdf
+2025-12-04 18:58:25.976 | INFO | Classifying: installer.exe
+2025-12-04 18:58:25.976 | INFO | Rule-based classification: Installers (confidence: 1.00)
+2025-12-04 18:58:25.976 | INFO | Explanation: File extension '.exe' maps to Installers
+2025-12-04 18:58:25.977 | INFO | Moving: installer.exe → C:\Users\hp\AppData\Local\Temp\tmp4rfyc17o\organized\Installers\installer.exe
+2025-12-04 18:58:25.977 | INFO | Moved: installer.exe
+2025-12-04 18:58:25.977 | INFO | Classifying: photo.jpg
+2025-12-04 18:58:25.977 | INFO | Rule-based classification: Images (confidence: 1.00)
+2025-12-04 18:58:25.977 | INFO | Explanation: File extension '.jpg' maps to Images
+2025-12-04 18:58:25.979 | INFO | Moving: photo.jpg → C:\Users\hp\AppData\Local\Temp\tmp4rfyc17o\organized\Images\photo.jpg
+2025-12-04 18:58:25.979 | INFO | Moved: photo.jpg
+2025-12-04 18:58:25.979 | INFO | Classifying: report.docx
+2025-12-04 18:58:25.979 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:58:25.979 | INFO | Explanation: File extension '.docx' maps to Documents
+2025-12-04 18:58:25.980 | INFO | Moving: report.docx → C:\Users\hp\AppData\Local\Temp\tmp4rfyc17o\organized\Documents\report.docx
+2025-12-04 18:58:25.980 | INFO | Moved: report.docx
+2025-12-04 18:58:25.980 | INFO | Classifying: screenshot.png
+2025-12-04 18:58:25.980 | INFO | Rule-based classification: Images (confidence: 1.00)
+2025-12-04 18:58:25.980 | INFO | Explanation: File extension '.png' maps to Images
+2025-12-04 18:58:25.981 | INFO | Moving: screenshot.png → C:\Users\hp\AppData\Local\Temp\tmp4rfyc17o\organized\Images\screenshot.png
+2025-12-04 18:58:25.981 | INFO | Moved: screenshot.png
+2025-12-04 18:58:25.981 | INFO | Classifying: script.py
+2025-12-04 18:58:25.981 | INFO | Rule-based classification: Code (confidence: 1.00)
+2025-12-04 18:58:25.981 | INFO | Explanation: File extension '.py' maps to Code
+2025-12-04 18:58:25.982 | INFO | Moving: script.py → C:\Users\hp\AppData\Local\Temp\tmp4rfyc17o\organized\Code\script.py
+2025-12-04 18:58:25.982 | INFO | Moved: script.py
+2025-12-04 18:58:25.982 | INFO | Classifying: video.mp4
+2025-12-04 18:58:25.982 | INFO | Rule-based classification: Videos (confidence: 1.00)
+2025-12-04 18:58:25.982 | INFO | Explanation: File extension '.mp4' maps to Videos
+2025-12-04 18:58:25.983 | INFO | Moving: video.mp4 → C:\Users\hp\AppData\Local\Temp\tmp4rfyc17o\organized\Videos\video.mp4
+2025-12-04 18:58:25.983 | INFO | Moved: video.mp4
+2025-12-04 18:58:25.984 | INFO | Cleanup complete: 8 files moved, 0 errors

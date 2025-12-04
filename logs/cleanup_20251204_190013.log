@@ -1,0 +1,27 @@
+2025-12-04 19:00:13.002 | INFO | Starting cleanup operation
+2025-12-04 19:00:13.003 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmpzhgwbfp8
+2025-12-04 19:00:13.003 | INFO | Found 1 files to process
+2025-12-04 19:00:13.004 | INFO | Classifying: report.pdf
+2025-12-04 19:00:13.004 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 19:00:13.004 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 19:00:13.005 | INFO | Moving: report.pdf → C:\Users\hp\AppData\Local\Temp\tmpzhgwbfp8\organized\Documents\report.pdf
+2025-12-04 19:00:13.005 | INFO | Moved: report.pdf
+2025-12-04 19:00:13.005 | INFO | Cleanup complete: 1 files moved, 0 errors
+2025-12-04 19:00:13.009 | INFO | Starting cleanup operation
+2025-12-04 19:00:13.009 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmpzhgwbfp8
+2025-12-04 19:00:13.009 | INFO | Found 1 files to process
+2025-12-04 19:00:13.009 | INFO | Classifying: report.pdf
+2025-12-04 19:00:13.010 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 19:00:13.010 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 19:00:13.010 | INFO | Moving: report.pdf → C:\Users\hp\AppData\Local\Temp\tmpzhgwbfp8\organized\Documents\report_1.pdf
+2025-12-04 19:00:13.010 | INFO | Moved: report.pdf
+2025-12-04 19:00:13.011 | INFO | Cleanup complete: 1 files moved, 0 errors
+2025-12-04 19:00:13.012 | INFO | Starting cleanup operation
+2025-12-04 19:00:13.013 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\tmpzhgwbfp8
+2025-12-04 19:00:13.013 | INFO | Found 1 files to process
+2025-12-04 19:00:13.013 | INFO | Classifying: report.pdf
+2025-12-04 19:00:13.013 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 19:00:13.013 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 19:00:13.014 | INFO | Moving: report.pdf → C:\Users\hp\AppData\Local\Temp\tmpzhgwbfp8\organized\Documents\report_2.pdf
+2025-12-04 19:00:13.015 | INFO | Moved: report.pdf
+2025-12-04 19:00:13.015 | INFO | Cleanup complete: 1 files moved, 0 errors

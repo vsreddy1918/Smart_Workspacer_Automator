@@ -1,0 +1,4 @@
+# file: F:\kiro\config.py
+# hypothesis_version: 6.148.6
+
+[0.0, 0.7, 1.0, '.DS_Store', '.crdownload', '.part', '.tmp', '7z', 'Archives', 'Code', 'Config', 'Darwin', 'Documents', 'Downloads', 'Images', 'Installers', 'Miscellaneous', 'Study', 'Videos', 'Work', '_{n}', 'ai_classifier', 'ambiguity_threshold', 'avi', 'bmp', 'bz2', 'c', 'categories', 'cpp', 'css', 'deb', 'dmg', 'doc', 'docx', 'downloads', 'downloads_folder', 'duplicate_handling', 'enabled', 'exe', 'flv', 'gif', 'gz', 'h', 'html', 'java', 'jpeg', 'jpg', 'js', 'logs', 'logs_folder', 'mkv', 'mov', 'mp4', 'msi', 'nt', 'odt', 'organized', 'organized_folder', 'overwrite', 'pdf', 'pkg', 'png', 'posix', 'prompt_template', 'py', 'r', 'rar', 'rename', 'rpm', 'rtf', 'skip', 'strategy', 'suffix_pattern', 'svg', 'system_file_patterns', 'tar', 'txt', 'webm', 'webp', 'wmv', 'zip']

@@ -1,0 +1,4 @@
+# file: F:\kiro\reporter.py
+# hypothesis_version: 6.148.6
+
+[100, '# Cleanup Summary', '## Errors', '## Sample Operations', 'category_breakdown', 'duration_seconds', 'end_time', 'files_skipped', 'start_time', 'total_files_moved', 'utf-8']

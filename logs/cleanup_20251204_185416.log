@@ -1,0 +1,61 @@
+2025-12-04 18:54:16.764 | INFO | Starting cleanup operation
+2025-12-04 18:54:16.765 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_run_with_empty_folder0\downloads
+2025-12-04 18:54:16.765 | INFO | Found 0 files to process
+2025-12-04 18:54:16.765 | INFO | Cleanup complete: 0 files moved, 0 errors
+2025-12-04 18:54:16.788 | INFO | Starting cleanup operation
+2025-12-04 18:54:16.788 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_run_with_files0\downloads
+2025-12-04 18:54:16.881 | INFO | Found 3 files to process
+2025-12-04 18:54:16.881 | INFO | Classifying: document.pdf
+2025-12-04 18:54:16.881 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:16.882 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:54:16.884 | INFO | Moving: document.pdf → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_run_with_files0\downloads\organized\Documents\document.pdf
+2025-12-04 18:54:16.884 | INFO | Moved: document.pdf
+2025-12-04 18:54:16.884 | INFO | Classifying: image.jpg
+2025-12-04 18:54:16.884 | INFO | Rule-based classification: Images (confidence: 1.00)
+2025-12-04 18:54:16.884 | INFO | Explanation: File extension '.jpg' maps to Images
+2025-12-04 18:54:16.885 | INFO | Moving: image.jpg → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_run_with_files0\downloads\organized\Images\image.jpg
+2025-12-04 18:54:16.886 | INFO | Moved: image.jpg
+2025-12-04 18:54:16.886 | INFO | Classifying: video.mp4
+2025-12-04 18:54:16.886 | INFO | Rule-based classification: Videos (confidence: 1.00)
+2025-12-04 18:54:16.886 | INFO | Explanation: File extension '.mp4' maps to Videos
+2025-12-04 18:54:16.887 | INFO | Moving: video.mp4 → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_run_with_files0\downloads\organized\Videos\video.mp4
+2025-12-04 18:54:16.887 | INFO | Moved: video.mp4
+2025-12-04 18:54:16.887 | INFO | Cleanup complete: 3 files moved, 0 errors
+2025-12-04 18:54:16.908 | INFO | Starting cleanup operation
+2025-12-04 18:54:16.909 | INFO | Scanning folder: \nonexistent\folder\path
+2025-12-04 18:54:16.936 | INFO | Starting cleanup operation
+2025-12-04 18:54:16.936 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_main_with_folder_argument0\downloads
+2025-12-04 18:54:16.937 | INFO | Found 1 files to process
+2025-12-04 18:54:16.937 | INFO | Classifying: test.pdf
+2025-12-04 18:54:16.937 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:16.937 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:54:16.939 | INFO | Moving: test.pdf → C:\Users\hp\Downloads\organized\Documents\test_3.pdf
+2025-12-04 18:54:16.939 | INFO | Moved: test.pdf
+2025-12-04 18:54:16.940 | INFO | Cleanup complete: 1 files moved, 0 errors
+2025-12-04 18:54:16.950 | INFO | Starting cleanup operation
+2025-12-04 18:54:16.950 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_main_without_folder_argum0\Downloads
+2025-12-04 18:54:16.951 | INFO | Found 1 files to process
+2025-12-04 18:54:16.951 | INFO | Classifying: test.pdf
+2025-12-04 18:54:16.951 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:16.951 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:54:16.953 | INFO | Moving: test.pdf → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_main_without_folder_argum0\Downloads\organized\Documents\test.pdf
+2025-12-04 18:54:16.953 | INFO | Moved: test.pdf
+2025-12-04 18:54:16.953 | INFO | Cleanup complete: 1 files moved, 0 errors
+2025-12-04 18:54:16.969 | INFO | Starting cleanup operation
+2025-12-04 18:54:16.969 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_main_with_missing_config_0\downloads
+2025-12-04 18:54:16.970 | INFO | Found 1 files to process
+2025-12-04 18:54:16.970 | INFO | Classifying: test.pdf
+2025-12-04 18:54:16.970 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:16.970 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:54:16.971 | INFO | Moving: test.pdf → C:\Users\hp\Downloads\organized\Documents\test_4.pdf
+2025-12-04 18:54:16.971 | INFO | Moved: test.pdf
+2025-12-04 18:54:16.971 | INFO | Cleanup complete: 1 files moved, 0 errors
+2025-12-04 18:54:16.990 | INFO | Starting cleanup operation
+2025-12-04 18:54:16.991 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_main_displays_success_mes0\downloads
+2025-12-04 18:54:16.992 | INFO | Found 1 files to process
+2025-12-04 18:54:16.992 | INFO | Classifying: test.pdf
+2025-12-04 18:54:16.993 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:16.993 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 18:54:16.995 | INFO | Moving: test.pdf → C:\Users\hp\Downloads\organized\Documents\test_5.pdf
+2025-12-04 18:54:16.996 | INFO | Moved: test.pdf
+2025-12-04 18:54:16.996 | INFO | Cleanup complete: 1 files moved, 0 errors

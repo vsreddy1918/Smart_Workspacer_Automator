@@ -1,0 +1,129 @@
+2025-12-04 18:54:17.029 | INFO | Starting cleanup operation
+2025-12-04 18:54:17.029 | INFO | Scanning folder: C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads
+2025-12-04 18:54:17.034 | INFO | Found 25 files to process
+2025-12-04 18:54:17.034 | INFO | Classifying: file0.txt
+2025-12-04 18:54:17.034 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.034 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.036 | INFO | Moving: file0.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file0.txt
+2025-12-04 18:54:17.036 | INFO | Moved: file0.txt
+2025-12-04 18:54:17.036 | INFO | Classifying: file1.txt
+2025-12-04 18:54:17.036 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.036 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.037 | INFO | Moving: file1.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file1.txt
+2025-12-04 18:54:17.037 | INFO | Moved: file1.txt
+2025-12-04 18:54:17.038 | INFO | Classifying: file10.txt
+2025-12-04 18:54:17.038 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.038 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.039 | INFO | Moving: file10.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file10.txt
+2025-12-04 18:54:17.039 | INFO | Moved: file10.txt
+2025-12-04 18:54:17.039 | INFO | Classifying: file11.txt
+2025-12-04 18:54:17.039 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.039 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.042 | INFO | Moving: file11.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file11.txt
+2025-12-04 18:54:17.042 | INFO | Moved: file11.txt
+2025-12-04 18:54:17.042 | INFO | Classifying: file12.txt
+2025-12-04 18:54:17.042 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.043 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.044 | INFO | Moving: file12.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file12.txt
+2025-12-04 18:54:17.044 | INFO | Moved: file12.txt
+2025-12-04 18:54:17.044 | INFO | Classifying: file13.txt
+2025-12-04 18:54:17.044 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.045 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.046 | INFO | Moving: file13.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file13.txt
+2025-12-04 18:54:17.046 | INFO | Moved: file13.txt
+2025-12-04 18:54:17.046 | INFO | Classifying: file14.txt
+2025-12-04 18:54:17.046 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.046 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.047 | INFO | Moving: file14.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file14.txt
+2025-12-04 18:54:17.048 | INFO | Moved: file14.txt
+2025-12-04 18:54:17.048 | INFO | Classifying: file15.txt
+2025-12-04 18:54:17.048 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.048 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.049 | INFO | Moving: file15.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file15.txt
+2025-12-04 18:54:17.049 | INFO | Moved: file15.txt
+2025-12-04 18:54:17.049 | INFO | Classifying: file16.txt
+2025-12-04 18:54:17.049 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.049 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.050 | INFO | Moving: file16.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file16.txt
+2025-12-04 18:54:17.050 | INFO | Moved: file16.txt
+2025-12-04 18:54:17.050 | INFO | Classifying: file17.txt
+2025-12-04 18:54:17.051 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.051 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.052 | INFO | Moving: file17.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file17.txt
+2025-12-04 18:54:17.052 | INFO | Moved: file17.txt
+2025-12-04 18:54:17.052 | INFO | Classifying: file18.txt
+2025-12-04 18:54:17.052 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.052 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.053 | INFO | Moving: file18.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file18.txt
+2025-12-04 18:54:17.053 | INFO | Moved: file18.txt
+2025-12-04 18:54:17.053 | INFO | Classifying: file19.txt
+2025-12-04 18:54:17.054 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.054 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.055 | INFO | Moving: file19.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file19.txt
+2025-12-04 18:54:17.055 | INFO | Moved: file19.txt
+2025-12-04 18:54:17.055 | INFO | Classifying: file2.txt
+2025-12-04 18:54:17.055 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.055 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.057 | INFO | Moving: file2.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file2.txt
+2025-12-04 18:54:17.057 | INFO | Moved: file2.txt
+2025-12-04 18:54:17.057 | INFO | Classifying: file20.txt
+2025-12-04 18:54:17.058 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.058 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.059 | INFO | Moving: file20.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file20.txt
+2025-12-04 18:54:17.059 | INFO | Moved: file20.txt
+2025-12-04 18:54:17.059 | INFO | Classifying: file21.txt
+2025-12-04 18:54:17.059 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.060 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.061 | INFO | Moving: file21.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file21.txt
+2025-12-04 18:54:17.061 | INFO | Moved: file21.txt
+2025-12-04 18:54:17.061 | INFO | Classifying: file22.txt
+2025-12-04 18:54:17.061 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.061 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.062 | INFO | Moving: file22.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file22.txt
+2025-12-04 18:54:17.062 | INFO | Moved: file22.txt
+2025-12-04 18:54:17.062 | INFO | Classifying: file23.txt
+2025-12-04 18:54:17.062 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.063 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.064 | INFO | Moving: file23.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file23.txt
+2025-12-04 18:54:17.064 | INFO | Moved: file23.txt
+2025-12-04 18:54:17.064 | INFO | Classifying: file24.txt
+2025-12-04 18:54:17.064 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.064 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.065 | INFO | Moving: file24.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file24.txt
+2025-12-04 18:54:17.065 | INFO | Moved: file24.txt
+2025-12-04 18:54:17.065 | INFO | Classifying: file3.txt
+2025-12-04 18:54:17.065 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.065 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.066 | INFO | Moving: file3.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file3.txt
+2025-12-04 18:54:17.066 | INFO | Moved: file3.txt
+2025-12-04 18:54:17.066 | INFO | Classifying: file4.txt
+2025-12-04 18:54:17.067 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.067 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.068 | INFO | Moving: file4.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file4.txt
+2025-12-04 18:54:17.068 | INFO | Moved: file4.txt
+2025-12-04 18:54:17.068 | INFO | Classifying: file5.txt
+2025-12-04 18:54:17.068 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.068 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.069 | INFO | Moving: file5.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file5.txt
+2025-12-04 18:54:17.069 | INFO | Moved: file5.txt
+2025-12-04 18:54:17.069 | INFO | Classifying: file6.txt
+2025-12-04 18:54:17.069 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.069 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.070 | INFO | Moving: file6.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file6.txt
+2025-12-04 18:54:17.070 | INFO | Moved: file6.txt
+2025-12-04 18:54:17.070 | INFO | Classifying: file7.txt
+2025-12-04 18:54:17.071 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.071 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.072 | INFO | Moving: file7.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file7.txt
+2025-12-04 18:54:17.072 | INFO | Moved: file7.txt
+2025-12-04 18:54:17.072 | INFO | Classifying: file8.txt
+2025-12-04 18:54:17.072 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.072 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.074 | INFO | Moving: file8.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file8.txt
+2025-12-04 18:54:17.074 | INFO | Moved: file8.txt
+2025-12-04 18:54:17.074 | INFO | Classifying: file9.txt
+2025-12-04 18:54:17.074 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 18:54:17.075 | INFO | Explanation: File extension '.txt' maps to Documents
+2025-12-04 18:54:17.076 | INFO | Moving: file9.txt → C:\Users\hp\AppData\Local\Temp\pytest-of-Srinivasa Reddy\pytest-7\test_progress_indicator_shown_0\downloads\organized\Documents\file9.txt
+2025-12-04 18:54:17.076 | INFO | Moved: file9.txt
+2025-12-04 18:54:17.076 | INFO | Cleanup complete: 25 files moved, 0 errors

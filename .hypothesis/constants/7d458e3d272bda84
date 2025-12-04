@@ -1,0 +1,4 @@
+# file: F:\kiro\logger.py
+# hypothesis_version: 6.148.6
+
+['%Y%m%d_%H%M%S', '%Y-%m-%d %H:%M:%S', 'DEBUG', 'ERROR', 'INFO', 'MoveError', 'SUCCESS', 'utf-8']

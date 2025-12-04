@@ -1,0 +1,76 @@
+2025-12-04 19:02:54.547 | INFO | Starting cleanup operation
+2025-12-04 19:02:54.548 | INFO | Scanning folder: D:\
+2025-12-04 19:02:55.867 | INFO | Found 968 files to process
+2025-12-04 19:02:55.868 | INFO | Classifying: -rt-Nc7yEFY1fM39SGKI9_output.mp4
+2025-12-04 19:02:55.868 | INFO | Rule-based classification: Videos (confidence: 1.00)
+2025-12-04 19:02:55.868 | INFO | Explanation: File extension '.mp4' maps to Videos
+2025-12-04 19:02:55.951 | INFO | Moving: -rt-Nc7yEFY1fM39SGKI9_output.mp4 → C:\Users\hp\Downloads\organized\Videos\-rt-Nc7yEFY1fM39SGKI9_output.mp4
+2025-12-04 19:02:55.951 | INFO | Moved: -rt-Nc7yEFY1fM39SGKI9_output.mp4
+2025-12-04 19:02:55.951 | INFO | Classifying: 01 Call-Center-Dataset.xlsx
+2025-12-04 19:02:55.952 | INFO | Merged classification: Miscellaneous (confidence: 0.40)
+2025-12-04 19:02:55.952 | INFO | Explanation: AI classification (confidence 0.40): No clear purpose indicators found in filename
+2025-12-04 19:02:56.109 | INFO | Moving: 01 Call-Center-Dataset.xlsx → C:\Users\hp\Downloads\organized\Miscellaneous\01 Call-Center-Dataset.xlsx
+2025-12-04 19:02:56.110 | INFO | Moved: 01 Call-Center-Dataset.xlsx
+2025-12-04 19:02:56.110 | INFO | Classifying: 02 Churn-Dataset.xlsx
+2025-12-04 19:02:56.110 | INFO | Merged classification: Miscellaneous (confidence: 0.40)
+2025-12-04 19:02:56.111 | INFO | Explanation: AI classification (confidence 0.40): No clear purpose indicators found in filename
+2025-12-04 19:02:56.148 | INFO | Moving: 02 Churn-Dataset.xlsx → C:\Users\hp\Downloads\organized\Miscellaneous\02 Churn-Dataset.xlsx
+2025-12-04 19:02:56.149 | INFO | Moved: 02 Churn-Dataset.xlsx
+2025-12-04 19:02:56.149 | INFO | Classifying: 04T_150920231996B05D95DF4F19BF5F93CB49E17ECE.xlsx
+2025-12-04 19:02:56.149 | INFO | Merged classification: Miscellaneous (confidence: 0.40)
+2025-12-04 19:02:56.150 | INFO | Explanation: AI classification (confidence 0.40): No clear purpose indicators found in filename
+2025-12-04 19:02:56.192 | INFO | Moving: 04T_150920231996B05D95DF4F19BF5F93CB49E17ECE.xlsx → C:\Users\hp\Downloads\organized\Miscellaneous\04T_150920231996B05D95DF4F19BF5F93CB49E17ECE.xlsx
+2025-12-04 19:02:56.192 | INFO | Moved: 04T_150920231996B05D95DF4F19BF5F93CB49E17ECE.xlsx
+2025-12-04 19:02:56.192 | INFO | Classifying: 1 (1).pdf
+2025-12-04 19:02:56.192 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 19:02:56.193 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 19:02:56.208 | INFO | Moving: 1 (1).pdf → C:\Users\hp\Downloads\organized\Documents\1 (1).pdf
+2025-12-04 19:02:56.208 | INFO | Moved: 1 (1).pdf
+2025-12-04 19:02:56.208 | INFO | Classifying: 1 (2).pdf
+2025-12-04 19:02:56.209 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 19:02:56.209 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 19:02:56.245 | INFO | Moving: 1 (2).pdf → C:\Users\hp\Downloads\organized\Documents\1 (2).pdf
+2025-12-04 19:02:56.245 | INFO | Moved: 1 (2).pdf
+2025-12-04 19:02:56.245 | INFO | Classifying: 1 (2).png
+2025-12-04 19:02:56.245 | INFO | Rule-based classification: Images (confidence: 1.00)
+2025-12-04 19:02:56.245 | INFO | Explanation: File extension '.png' maps to Images
+2025-12-04 19:02:56.295 | INFO | Moving: 1 (2).png → C:\Users\hp\Downloads\organized\Images\1 (2).png
+2025-12-04 19:02:56.295 | INFO | Moved: 1 (2).png
+2025-12-04 19:02:56.295 | INFO | Classifying: 1-s2.0-S0305054823001260-main.pdf
+2025-12-04 19:02:56.296 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 19:02:56.296 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 19:02:56.491 | INFO | Moving: 1-s2.0-S0305054823001260-main.pdf → C:\Users\hp\Downloads\organized\Documents\1-s2.0-S0305054823001260-main.pdf
+2025-12-04 19:02:56.491 | INFO | Moved: 1-s2.0-S0305054823001260-main.pdf
+2025-12-04 19:02:56.491 | INFO | Classifying: 1-s2.0-S0363811110001207-main.pdf
+2025-12-04 19:02:56.491 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 19:02:56.491 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 19:02:56.663 | INFO | Moving: 1-s2.0-S0363811110001207-main.pdf → C:\Users\hp\Downloads\organized\Documents\1-s2.0-S0363811110001207-main.pdf
+2025-12-04 19:02:56.663 | INFO | Moved: 1-s2.0-S0363811110001207-main.pdf
+2025-12-04 19:02:56.663 | INFO | Classifying: 1.py
+2025-12-04 19:02:56.663 | INFO | Rule-based classification: Code (confidence: 1.00)
+2025-12-04 19:02:56.663 | INFO | Explanation: File extension '.py' maps to Code
+2025-12-04 19:02:56.676 | INFO | Moving: 1.py → C:\Users\hp\Downloads\organized\Code\1.py
+2025-12-04 19:02:56.677 | INFO | Moved: 1.py
+2025-12-04 19:02:56.677 | INFO | Classifying: 10. Natural Cereals Case.pdf
+2025-12-04 19:02:56.677 | INFO | Rule-based classification: Documents (confidence: 1.00)
+2025-12-04 19:02:56.677 | INFO | Explanation: File extension '.pdf' maps to Documents
+2025-12-04 19:02:56.713 | INFO | Moving: 10. Natural Cereals Case.pdf → C:\Users\hp\Downloads\organized\Documents\10. Natural Cereals Case.pdf
+2025-12-04 19:02:56.713 | INFO | Moved: 10. Natural Cereals Case.pdf
+2025-12-04 19:02:56.713 | INFO | Classifying: 100x-LLM-main (1).zip
+2025-12-04 19:02:56.713 | INFO | Rule-based classification: Archives (confidence: 1.00)
+2025-12-04 19:02:56.713 | INFO | Explanation: File extension '.zip' maps to Archives
+2025-12-04 19:02:56.750 | INFO | Moving: 100x-LLM-main (1).zip → C:\Users\hp\Downloads\organized\Archives\100x-LLM-main (1).zip
+2025-12-04 19:02:56.750 | INFO | Moved: 100x-LLM-main (1).zip
+2025-12-04 19:02:56.750 | INFO | Classifying: 100x-LLM-main.zip
+2025-12-04 19:02:56.750 | INFO | Rule-based classification: Archives (confidence: 1.00)
+2025-12-04 19:02:56.751 | INFO | Explanation: File extension '.zip' maps to Archives
+2025-12-04 19:02:56.792 | INFO | Moving: 100x-LLM-main.zip → C:\Users\hp\Downloads\organized\Archives\100x-LLM-main.zip
+2025-12-04 19:02:56.792 | INFO | Moved: 100x-LLM-main.zip
+2025-12-04 19:02:56.792 | INFO | Classifying: 100x_Lecture_Decks-20250301T180137Z-001.zip
+2025-12-04 19:02:56.792 | INFO | Rule-based classification: Archives (confidence: 1.00)
+2025-12-04 19:02:56.792 | INFO | Explanation: File extension '.zip' maps to Archives
+2025-12-04 19:03:03.137 | INFO | Moving: 100x_Lecture_Decks-20250301T180137Z-001.zip → C:\Users\hp\Downloads\organized\Archives\100x_Lecture_Decks-20250301T180137Z-001.zip
+2025-12-04 19:03:03.137 | INFO | Moved: 100x_Lecture_Decks-20250301T180137Z-001.zip
+2025-12-04 19:03:03.137 | INFO | Classifying: 100x_Lecture_Decks-20250402T115629Z-001.zip
+2025-12-04 19:03:03.137 | INFO | Rule-based classification: Archives (confidence: 1.00)
+2025-12-04 19:03:03.137 | INFO | Explanation: File extension '.zip' maps to Archives
